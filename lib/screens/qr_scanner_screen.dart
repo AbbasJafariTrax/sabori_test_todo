@@ -10,8 +10,6 @@ import '../utils/utils.dart';
 class QrScannerScreen extends ConsumerWidget {
   const QrScannerScreen({super.key});
 
-
-
   @override
   Widget build(BuildContext context,WidgetRef ref) {
     return PopScope(
